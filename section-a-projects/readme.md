@@ -1,6 +1,6 @@
-# AI Section A — Student Project Submissions
+# AI Section E — Student Project Submissions
 
-Welcome to the official project submission repository for **Artificial Intelligence – Section A**.
+Welcome to the official project submission repository for **Artificial Intelligence – Section E**.
 
 All students must submit their final projects to this repository using **GitHub Pull Requests (PRs)**.  
 This ensures transparent version history, timestamps, and a standardized grading workflow.
@@ -11,7 +11,7 @@ This ensures transparent version history, timestamps, and a standardized grading
 
 1. Fork this repository to your GitHub account  
 2. Clone your fork locally  
-3. Create your project in the `section-b-projects` repository
+3. Create your project in the `section-e-projects` repository
 4. Commit and push your work  
 5. Open a **Pull Request** back to this repository  
 
@@ -22,21 +22,10 @@ This ensures transparent version history, timestamps, and a standardized grading
 
 ## 📁 Folder Naming Convention
 
-Inside `section-b-projects/`, create exactly **one folder** using the format:
+Inside `section-e-projects/`, create exactly **one folder** using the format:
 
-firstname-lastname
-
-Examples
-- section-b-projects/ali-khan
-- section-b-projects/sara-ahmed
-
-Team Projects
-
-If you are submitting as a team, use:
-section-b-projects/team-teamname
-
-Example:
-- section-b-projects/team-alpha
+project-title
+- section-e-projects/disease-prediction
 
 ---
 
